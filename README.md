@@ -140,12 +140,12 @@ Built with a focus on user experience, the chatbot simulates a real-world real e
 ### Example 1: First-Time Home Buyer
 ```
 Bot: Hi! I'm your Real Estate Investment Assistant. What's your budget?
-User: I'm looking for something under $300,000
+User: I'm looking for something under $400,000
 Bot: Great! Which location are you interested in?
 User: Downtown area
 Bot: What type of property? (House/Apartment/Condo/Townhome)
 User: Apartment
-Bot: Here are 3 apartments in Downtown under $300,000:
+Bot: Here are 3 apartments in Downtown under $400,000:
      1. Modern 2BR Apartment - $285,000
      2. Cozy Studio Downtown - $245,000
      3. Renovated 1BR Loft - $295,000
